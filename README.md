@@ -1,3 +1,3 @@
 # zoom_clone
-# to run
+-> to run
 peerjs --port 3001
