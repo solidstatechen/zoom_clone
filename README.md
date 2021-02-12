@@ -8,6 +8,6 @@ npm i --save dev nodemon (dev dependency: allows u to refresh and track website 
 
 npm run devStart (starts server)
 
-npm i -g peer
+npm i -g peer (peerjs library)
 
 peerjs --port 3001
